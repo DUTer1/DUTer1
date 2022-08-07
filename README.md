@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DUTer1
+- 👋 Hi, I’m DUTer
 - 👀 I’m interested in IoT security
 - 🌱 I’m currently learning of data integration 
 - 💞️ I’m looking to collaborate on ...
